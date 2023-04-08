@@ -1,5 +1,5 @@
 # This is a H1 with a [link to my profile README](https://github.com/taxborn/taxborn)
-## This is a H2 with a [link to the repository of what I don't understand](https://github.com/taxborn/ThisIDontUnderstand)
+## This is a H2 with a [link to the repository of what I don't understand](https://github.com/taxborn/ThisIDontUnderstand/blob/main/ThingsIDontUnderstand.md)
 ### This is a H3
 #### :space_invader: This is a H4, with emojis!
 ##### This is a H5, need I go on ..?
